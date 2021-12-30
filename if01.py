@@ -6,4 +6,5 @@ def main(a):
     Returns:
         a: a increased by 1 if positive, else unchanged.
     """
-    return
+    if a>0:
+        return 1+a
