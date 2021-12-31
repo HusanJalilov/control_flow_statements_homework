@@ -11,7 +11,7 @@ def main(a):
         than or equal to the old number, otherwise return False.
     """
     s=a%10*10+a//10
-    if s<=a:
+    if s<a and s==a:
         return "True"
     else:
         return "False" 
