@@ -13,4 +13,40 @@ def main(a,b,c):
     Returns:
         string: string with the result
     """
-    return
+    if a>0:
+        if b>0:
+            if c>0:
+                return "there are a lot of positive numbers"
+            return "there are a lot of positive numbers"
+    "there are a lot of negative numbers"
+    if b>0:
+        if a>0:
+            if c>0:
+                return "there are a lot of positive numbers"
+            return "there are a lot of positive numbers"
+    "there are a lot of negative numbers"
+    if c>0:
+        if a>0:
+            if b>0:
+                return "there are a lot of positive numbers"
+            return "there are a lot of positive numbers"
+    "there are a lot of negative numbers"
+    if b>0:
+        if c>0:
+            if a>0:
+                return "there are a lot of positive numbers"
+            return "there are a lot of positive numbers"
+    "there are a lot of negative numbers"
+    if a>0:
+        if b>0:
+            if c>0:
+                return "there are a lot of positive numbers"
+            return "there are a lot of positive numbers"
+    "there are a lot of negative numbers"
+    if a>0:
+        if c>0:
+            if b>0:
+                return "there are a lot of positive numbers"
+            return "there are a lot of positive numbers"
+    "there are a lot of negative numbers"
+
