@@ -19,3 +19,5 @@ def main(a):
         return "three-degit odd number"
     if a>99 and a<1000 and a%2==0:
         return "three-degit even number"
+    else:
+        return "no number"
